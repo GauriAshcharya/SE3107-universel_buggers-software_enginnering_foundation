@@ -29,7 +29,7 @@ function App() {
   return (
     <main className="page-shell">
       <header className="topbar">
-        <a className="brand" href="/" aria-label="Campus home">
+        <a className="brand" href="/frontend/public" aria-label="Campus home">
           <span className="brand-mark" aria-hidden="true">C</span>
           <span>Campus<span className="brand-light">Connect</span></span>
         </a>
